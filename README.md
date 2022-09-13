@@ -26,3 +26,20 @@ Select One Articles to Recreate / Critique / Redesign
 
 - Github Desktop: <https://desktop.github.com>
 - VS Code: <https://code.visualstudio.com>
+
+# Articles
+
+- Composing with Visual Devices: <a href="composing-with-visual-devices.pdf">pdf link</a>
+- Barbara Tversky: Visualising Thoughts: <http://mechanism.ucsd.edu/teaching/F12/cs200/Readings/tversky.visualizingthought.2010.pdf>
+
+# Tool Learning
+
+- Make 20 visualisation as SVG/PNG
+  - Raw Graphs
+  - Data Illutrator
+  - Charticulator
+  - Data Wrapper
+- Get the Pudding Data for your article
+  - Understand the tables
+  - Get all of them in Sheets/Excel
+  - Make Rough Visualisation
