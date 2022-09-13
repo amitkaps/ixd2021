@@ -1,7 +1,7 @@
 ## Resource List
 
-- Sheets Link: <https://docs.google.com/spreadsheets/d/1IM8sS0-qSqp_0v9FJarq0emDM9qkeBJjminYQhsDWqM/edit?usp=sharing>
-- Summary Figma Link: <https://www.figma.com/file/IE6zb8yPYUF0wZMhmvJygt/Summary>
+- Project Sheets: <https://docs.google.com/spreadsheets/d/1IM8sS0-qSqp_0v9FJarq0emDM9qkeBJjminYQhsDWqM/edit?usp=sharing>
+- Summary Figma: <https://www.figma.com/file/IE6zb8yPYUF0wZMhmvJygt/Summary>
 - Master Data Visualisation Resources: <https://amitkaps.com/data-visualisation-resources>
 - Reading for Day 1
   - Distill.pub: <https://distill.pub/2020/communicating-with-interactive-articles/>
