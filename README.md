@@ -3,9 +3,6 @@
 - Project Sheets: <https://docs.google.com/spreadsheets/d/1IM8sS0-qSqp_0v9FJarq0emDM9qkeBJjminYQhsDWqM/edit?usp=sharing>
 - Summary Figma: <https://www.figma.com/file/IE6zb8yPYUF0wZMhmvJygt/Summary>
 - Master Data Visualisation Resources: <https://amitkaps.com/data-visualisation-resources>
-- Reading for Day 1
-  - Distill.pub: <https://distill.pub/2020/communicating-with-interactive-articles/>
-  - Any article from Purpose & Value Section
 
 ## Major Project
 
@@ -29,8 +26,12 @@ Select One Articles to Recreate / Critique / Redesign
 
 # Articles
 
-- Composing with Visual Devices: <a href="composing-with-visual-devices.pdf">pdf link</a>
-- Barbara Tversky: Visualising Thoughts: <http://mechanism.ucsd.edu/teaching/F12/cs200/Readings/tversky.visualizingthought.2010.pdf>
+- Reading for Day 1
+  - Distill.pub: <https://distill.pub/2020/communicating-with-interactive-articles/>
+  - Any article from Purpose & Value Section
+- Reading for Day 2
+  - Composing with Visual Devices: <a href="composing-with-visual-devices.pdf">pdf link</a>
+  - Barbara Tversky: Visualising Thoughts: <http://mechanism.ucsd.edu/teaching/F12/cs200/Readings/tversky.visualizingthought.2010.pdf>
 
 # Tool Learning
 
