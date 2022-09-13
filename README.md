@@ -21,3 +21,8 @@ Select One Articles to Recreate / Critique / Redesign
 - **Pudding.cool** - <https://pudding.cool>
   - Resources: <https://pudding.cool/resources/>
   - Data for articles: <https://github.com/the-pudding/data>
+
+# Tools
+
+- Github Desktop: <https://desktop.github.com>
+- VS Code: <https://code.visualstudio.com>
