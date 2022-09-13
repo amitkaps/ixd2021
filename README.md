@@ -19,12 +19,7 @@ Select One Articles to Recreate / Critique / Redesign
   - Resources: <https://pudding.cool/resources/>
   - Data for articles: <https://github.com/the-pudding/data>
 
-# Tools
-
-- Github Desktop: <https://desktop.github.com>
-- VS Code: <https://code.visualstudio.com>
-
-# Articles
+## Articles
 
 - Reading for Day 1
   - Distill.pub: <https://distill.pub/2020/communicating-with-interactive-articles/>
@@ -33,9 +28,14 @@ Select One Articles to Recreate / Critique / Redesign
   - Composing with Visual Devices: <a href="composing-with-visual-devices.pdf">pdf link</a>
   - Barbara Tversky: Visualising Thoughts: <http://mechanism.ucsd.edu/teaching/F12/cs200/Readings/tversky.visualizingthought.2010.pdf>
 
-# Tool Learning
+## Tools Installation
 
-- Make 20 visualisation as SVG/PNG
+- Github Desktop: <https://desktop.github.com>
+- VS Code: <https://code.visualstudio.com>
+
+## Tools Practice
+
+- Make 20 visualisation as SVG/PNG with:
   - Raw Graphs
   - Data Illutrator
   - Charticulator
