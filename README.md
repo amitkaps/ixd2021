@@ -6,16 +6,16 @@
 0.	Amit — [amitkaps](https://github.com/amitkaps) :	<http://amitkaps.com/infovis>
 1.	AbhishekB — [abhidx111](https://github.com/abhidx111) : <https://abhidx111.github.io/abhiroom>
 2.	AbhishekG — [omfgabhi](https://github.com/omfgabhi) :	<https://omfgabhi.github.io/my-website>
-3.	Akanksha — [ekankshya](https://github.com/ekankshya) :	<https://ekankshya.github.io/infovisual>
-4.	Anavi	— [anavimitt](https://github.com/anavimitt) : 	<https://anavimitt.github.io/anavimitt>
-5.	Annya — [annya-pearl](https://github.com/annya-pearl) :	https://annya-pearl.github.io/infovis
+3.	Akanksha — [ekankshya](https://github.com/ekankshya) :	<https://ekankshya.github.io/Infodata>
+4.	Anavi	— [anavimitt](https://github.com/anavimitt) : 	<https://anavimitt.github.io/anavi>
+5.	Annya — [annya-pearl](https://github.com/annya-pearl) :	<https://annya-pearl.github.io/infovis>
 6.	Anshul — [grapazo](https://github.com/grapazo) :	<https://grapazo.github.io/infovis>
-7.	Anubhav — [AnubhavKukreti](https://github.com/AnubhavKukreti): <https://AnubhavKukreti.github.io/InfoViz
-8.	Anushri — [Anusree-VS](https://github.com/Anusree-VS) : <https://Anusree-VS.github.io/Ixd>
-9.	Medha	— [medhapriya](https://github.com/medhapriya): <https://medhapriya.github.io/infovis>
-10.	Meghana	— [	https://github.com/		https://.github.io/
-11.	Suraj	— [Suraj3D](https://github.com/Suraj3D) : <https://Suraj3D.github.io/surajdaddera>
-12.	Varsha — [VarshaKichilu](https://github.com/VarshaKichilu) :	<https://VarshaKichilu.github.io/infovisualisation>
+7.	Anubhav — [anubhavkukreti](https://github.com/anubhavkukreti): <https://anubhavkukreti.github.io/InfoViz>
+8.	Anushri — [anusree-vs](https://github.com/anusree-vs) : <https://anusree-vs.github.io/DataVisualisation>
+9.	Medha	— [medhapriya](https://github.com/medhapriya): <https://medhapriya.github.io/Information-Design>
+10.	Meghana	— [kwlowski](https://github.com/kwlowski)	:	<https://kwloski.github.io/datawiz>
+11.	Suraj	— [suraj3d](https://github.com/Suraj3D) : <https://suraj3d.github.io/surajdaddera>
+12.	Varsha — [varshakichilu](https://github.com/VarshaKichilu) :	<https://varshakichilu.github.io/infovisualisation>
 13.	Vishal — [anothervishal](https://github.com/anothervishal) : <https://anothervishal.me/infoviz>
 
 
