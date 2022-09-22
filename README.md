@@ -1,3 +1,24 @@
+
+<img src="infovis.jpg" width=400>
+
+## Projects
+
+0.	Amit — [amitkaps](https://github.com/amitkaps) :	<http://amitkaps.com/infovis>
+1.	AbhishekB — [abhidx111](https://github.com/abhidx111) : <https://abhidx111.github.io/abhiroom>
+2.	AbhishekG — [omfgabhi](https://github.com/omfgabhi) :	<https://omfgabhi.github.io/my-website>
+3.	Akanksha — [ekankshya](https://github.com/ekankshya) :	<https://ekankshya.github.io/infovisual>
+4.	Anavi	— [anavimitt](https://github.com/anavimitt) : 	<https://anavimitt.github.io/anavimitt>
+5.	Annya — [annya-pearl](https://github.com/annya-pearl) :	https://annya-pearl.github.io/infovis
+6.	Anshul — [grapazo](https://github.com/grapazo) :	<https://grapazo.github.io/infovis>
+7.	Anubhav — [AnubhavKukreti](https://github.com/AnubhavKukreti): <https://AnubhavKukreti.github.io/InfoViz
+8.	Anushri — [Anusree-VS](https://github.com/Anusree-VS) : <https://Anusree-VS.github.io/Ixd>
+9.	Medha	— [medhapriya](https://github.com/medhapriya): <https://medhapriya.github.io/infovis>
+10.	Meghana	— [	https://github.com/		https://.github.io/
+11.	Suraj	— [Suraj3D](https://github.com/Suraj3D) : <https://Suraj3D.github.io/surajdaddera>
+12.	Varsha — [VarshaKichilu](https://github.com/VarshaKichilu) :	<https://VarshaKichilu.github.io/infovisualisation>
+13.	Vishal — [anothervishal](https://github.com/anothervishal) : <https://anothervishal.me/infoviz>
+
+
 ## Resource List
 
 - Project Sheets: <https://docs.google.com/spreadsheets/d/1IM8sS0-qSqp_0v9FJarq0emDM9qkeBJjminYQhsDWqM/edit?usp=sharing>
@@ -40,6 +61,8 @@ Select One Articles to **Recreate / Critique / Redesign**
 
 ## Tools Installation
 
+
+- Observablehq: <https://observablehq.com/collection/@amitkaps/ixd2021>
 - Github Desktop: <https://desktop.github.com>
 - VS Code: <https://code.visualstudio.com>
 
