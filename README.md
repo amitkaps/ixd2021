@@ -8,11 +8,11 @@
 2.	AbhishekG — [omfgabhi](https://github.com/omfgabhi) :	<https://omfgabhi.github.io/my-website>
 3.	Akanksha — [ekankshya](https://github.com/ekankshya) :	<https://ekankshya.github.io/Infodata>
 4.	Anavi	— [anavimitt](https://github.com/anavimitt) : 	<https://anavimitt.github.io/anavi>
-5.	Annya — [annya-pearl](https://github.com/annya-pearl) :	<https://annya-pearl.github.io/infovis>
+5.	Annya — [annya-pearl](https://github.com/annya-pearl) :	<https://annya-pearl.github.io/annya.pearl>
 6.	Anshul — [grapazo](https://github.com/grapazo) :	<https://grapazo.github.io/infovis>
 7.	Anubhav — [anubhavkukreti](https://github.com/anubhavkukreti): <https://anubhavkukreti.github.io/InfoViz>
 8.	Anushri — [anusree-vs](https://github.com/anusree-vs) : <https://anusree-vs.github.io/DataVisualisation>
-9.	Medha	— [medhapriya](https://github.com/medhapriya): <https://medhapriya.github.io/Information-Design>
+9.	Medha	— [medhapriya](https://github.com/medhapriya) : <https://medhapriya.github.io/Information-Design>
 10.	Meghana	— [kwlowski](https://github.com/kwlowski)	:	<https://kwloski.github.io/datawiz>
 11.	Suraj	— [suraj3d](https://github.com/Suraj3D) : <https://suraj3d.github.io/surajdaddera>
 12.	Varsha — [varshakichilu](https://github.com/VarshaKichilu) :	<https://varshakichilu.github.io/infovisualisation>
